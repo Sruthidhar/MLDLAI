@@ -1,0 +1,5 @@
+# in _config.yml
+title: "Quick NLP Projects"
+# logo: images/logo.png
+execute:
+  execute_notebooks: "off"
